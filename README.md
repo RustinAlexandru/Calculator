@@ -1,2 +1,2 @@
 # Calculator
-Calculator with a graphical interface Java
+Calculator with a graphical interface RMI Java
